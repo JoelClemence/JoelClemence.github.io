@@ -1,11 +1,11 @@
 remote_theme: thelehhman/texture
 show_excerpts: true
 minima:
-  date_format: "%-d  %b, %Y"
+  date_format: "%-d  %b %Y"
 texture:
   title: Joel Clemence
   tagline: Developer. 
-  date_format: "%b %-d, %Y"
+  date_format: "%-d %b %Y"
   style: blue
   showNav: true
 
