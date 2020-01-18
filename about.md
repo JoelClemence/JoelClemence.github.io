@@ -1,6 +1,6 @@
 # About me
 Hello there! I am Joel, I live in a small town in South West England with my wife (Ruth Clemence,
-she blogs at https://ruthclemence.com) and my young son. By day I am a software engineer in the 
+she blogs at [https://ruthclemence.com](https://ruthclemence.com)) and my young son. By day I am a software engineer in the 
 Civil Service, outside work I enjoy music and I am active in my local church.
 
 Growing up I had two main passions, technology and music, two things that have persisted into my adulthood. I dabbled in
