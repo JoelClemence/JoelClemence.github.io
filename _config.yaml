@@ -1,10 +1,10 @@
 remote_theme: thelehhman/texture
+show_excerpts: true
 texture:
   title: Joel Clemence
   tagline: Developer. 
   date_format: "%b %-d, %Y"
   style: blue
-  show_excerpts: true
   showNav: true
 
   social_links:
